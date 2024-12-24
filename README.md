@@ -14,6 +14,7 @@ findings and Recommendations:
 > 6. The age group of 20-30 orders most among all the age groups and also spends the most amount. The average amount spend among this age group is 9.0 USD
 > 7. Chicago, New York, Los Angeles, are the three main cities which has more active orders. Miami, Boston, Austin has less so I feel these areas should add more items to make them have more orders.
 > 8. The favourite orders which are being ordered are mostly at breakfast followed by dinner and lastly lunch
+> 9. Alice johnsan and bob smith user orders the most in day 
 
 
 
